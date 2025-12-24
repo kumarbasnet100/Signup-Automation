@@ -30,3 +30,13 @@ Create a `.env` file in the project root:
 
 ```env
 MAILSLURP_API_KEY=your_mailslurp_api_key_here
+
+---
+
+## Install Dependencies
+- npm i axios
+- npm i dotenv
+- npm i mailslurp-client
+- npm i node-html-parser
+
+---

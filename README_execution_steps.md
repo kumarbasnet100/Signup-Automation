@@ -30,6 +30,7 @@ Create a `.env` file in the project root:
 
 ```env
 MAILSLURP_API_KEY=your_mailslurp_api_key_here
+You can use my API_KEY also: sk_L8hjwlCcdArD2Yjq_duH59R6a8OqxkFuHjN15KLSiWkKOZI3V41MGzF7gwIxSbDPeyg7wrSHXdDIYtWsN
 
 ---
 
